@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889510088279",
+    "firebase_url": "https://mybdf-c65c7.firebaseio.com",
+    "project_id": "mybdf-c65c7",
+    "storage_bucket": "mybdf-c65c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889510088279:android:fc349b40c456054631dd12",
+        "android_client_info": {
+          "package_name": "com.example.blooddonorfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889510088279-gi2412o9d480gsg6btvvhn2mcp1g2rvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB7jgLGs-B0b4AhszHPso28mRzB39NOHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889510088279-gi2412o9d480gsg6btvvhn2mcp1g2rvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
